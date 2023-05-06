@@ -1,0 +1,22 @@
+.main-box {
+    width: 50vh;
+    height: 30vh;
+
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 30vh;
+}
+
+.counter-header {
+    color: rgb(2, 187, 2);
+}
+
+.main-box button{
+    border: 1px solid black;
+    border-radius: 500px;
+    width: 100px;
+    height: 35px;
+    background-color: transparent;
+    font-weight: bold;
+}
